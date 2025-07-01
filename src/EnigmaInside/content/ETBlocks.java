@@ -40,7 +40,7 @@ import static enigma.util.Consts.*;
 import static mindustry.type.ItemStack.with;
 
 public class ETBlocks {
-public static Block;
+public static Block BigEvaporationDynamo;
 public static void load(){
 BigEvaporationDynamo = new MultiPolymorphCrafter("big-evaporation-dynamo"){{
 			size = 4;
