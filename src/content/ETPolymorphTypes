@@ -1,0 +1,17 @@
+package content;
+
+import arc.graphics.Color;
+import enigma.custom.polymorph.PolymorphPowerType;
+import enigma.graphics.EniPal;
+
+public class ETPolymorphTypes {
+	public static PolymorphPowerType caster;
+
+	public static void load(){
+		caster = new PolymorphPowerType("caster");
+
+		caster.color = Color.valueOf("ff944a");
+		caster.colorDark = Color.valueOf("aa2911");
+
+	}
+}
