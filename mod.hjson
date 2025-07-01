@@ -9,4 +9,4 @@ version: "1.0"
 minGameVersion: "141"
 java: true
 hidden: false
-dependencies: []
+dependencies: [enigma]
