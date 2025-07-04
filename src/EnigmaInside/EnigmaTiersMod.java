@@ -6,6 +6,10 @@ import mindustry.mod.Mod;
 
 public class EnigmaTiersMod extends Mod {
 
+public ETMain(){
+        Log.info("Loaded Enigma Tier constructor.");
+}
+
 @Override
 public void loadContent(){
 ETBlocks.load();   
