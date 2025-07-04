@@ -6,7 +6,7 @@ import mindustry.mod.Mod;
 
 public class EnigmaTiersMod extends Mod {
 
-public ETMain(){
+public EnigmaTiersMod(){
         Log.info("Loaded Enigma Tier constructor.");
 }
 
