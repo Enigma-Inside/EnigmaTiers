@@ -2,7 +2,6 @@ displayName: Enigma Tiers
 name: enigmatiers
 author: Enigma-Inside
 main: EnigmaInside.EnigmaTiersMod
-repo: Enigma-Inside/EnigmaTiers
 version: "1.0"
 minGameVersion: "146"
 java: true
